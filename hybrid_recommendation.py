@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 
 # Replace with your YouTube API key
-API_KEY = 'AIzaSyAm6oKnT1A5adpwFaHYdSkwoauDaxSkgLU'
+API_KEY = 'Your API key'
 
 # Initialize YouTube API client
 youtube = build('youtube', 'v3', developerKey=API_KEY)
