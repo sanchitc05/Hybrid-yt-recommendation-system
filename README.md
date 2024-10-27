@@ -55,10 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries, please contact:
 - **Name**: Sanchit Chauhan
 - **Email**: sanchitchauhan005@gmail.com
-```
-
-### Customization Tips
-- Replace `sanchitc05` with your GitHub username in the clone URL.
-- Update the contact section with your details.
-- Adjust the "Future Work" section to reflect your actual plans for enhancing the system.
-- If applicable, add any relevant acknowledgments or contributions you want to highlight.
